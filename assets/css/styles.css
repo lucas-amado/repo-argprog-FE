@@ -1,4 +1,34 @@
 body{
-	background-color: gray;
-   /* color: green;*/
+	background-color: #161b22;
+    color: #7d8590;
 	}
+h1{
+    font-size: 5rem;
+    }
+h3mono{
+    font-size: 2rem;
+    font-family: 'Lucida console', monospace;
+    }    
+.row{
+    padding: 3rem ;
+    vertical-align: middle;
+    text-align: left;
+    font-family: 'Lucida console', monospace;
+   }
+.cuerpo{
+    padding: 1rem;
+    font-family: 'Lucida console', monospace;
+    background-color: #0d1117;
+}
+p{
+    text-indent: 3em;
+}
+.icono-inv{
+    filter:invert(100%);
+}
+
+#responsive-image {  
+    width: 20em;  
+    height: auto; 
+    position: center;
+} 
