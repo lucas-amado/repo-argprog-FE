@@ -20,8 +20,16 @@ h3mono{
     font-family: 'Lucida console', monospace;
     background-color: #0d1117;
 }
+.cuerpo2{
+    padding: 1rem;
+    font-family: 'Lucida console', monospace;
+    background-color: #161b22;
+}
 p{
     text-indent: 3em;
+}
+.justi{
+    text-align: justify;
 }
 .icono-inv{
     filter:invert(100%);
